@@ -21,3 +21,7 @@ cd to the src folder by entering "cd src" in your terminal
 After you're in the src folder, to run the program, enter these two lines of code:
 - javac RecursiveMazeSolver.java
 - java RecursiveMazeSolver
+
+
+Alternatively, if you're using VSCode: 
+- Install the Code Runner extension from VSCode marketplace, then right-click your .java file → Run Code.
